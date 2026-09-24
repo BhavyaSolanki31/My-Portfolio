@@ -18,7 +18,7 @@ Building intelligent systems that connect AI, electronics, signals, and real-wor
 
 ## 👋 About Me
 
-Hi, I'm **Bhavya Solanki**, a 3rd-year **B.Tech Electronics & Communication Engineering (AI & ML)** student passionate about building intelligent systems that combine:
+Hi, I'm **Bhavya Solanki**, a 4th-year **B.Tech Electronics & Communication Engineering (AI & ML)** student passionate about building intelligent systems that combine:
 
 - Artificial Intelligence
 - Machine Learning
