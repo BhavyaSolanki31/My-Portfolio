@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en" class="is-loading">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bhavya Solanki | ECE + AI/ML Engineer</title>
+    <meta
+      name="description"
+      content="Bhavya Solanki is an Electronics &amp; Communication Engineering student specializing in AI &amp; Machine Learning, building practical systems across AI, computer vision, signal processing, electronics and intelligent technologies."
+    />
+    <meta name="author" content="Bhavya Solanki" />
+    <meta name="theme-color" content="#55198b" />
+    <meta name="color-scheme" content="light dark" />
+    <script>
+      try {
+        var t = localStorage.getItem("theme");
+        if (t === "dark" || t === "light") document.documentElement.setAttribute("data-theme", t);
+      } catch (e) {}
+    </script>
+    <link rel="canonical" href="%VITE_SITE_URL%" />
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Bhavya Solanki" />
+    <meta property="og:title" content="Bhavya Solanki | ECE + AI/ML Engineer" />
+    <meta
+      property="og:description"
+      content="Building intelligent systems at the intersection of AI, electronics, computer vision and signal processing."
+    />
+    <meta property="og:url" content="%VITE_SITE_URL%" />
+    <meta property="og:image" content="%VITE_SITE_URL%og-image.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Bhavya Solanki | ECE + AI/ML Engineer" />
+    <meta
+      name="twitter:description"
+      content="Building intelligent systems at the intersection of AI, electronics, computer vision and signal processing."
+    />
+    <meta name="twitter:image" content="%VITE_SITE_URL%og-image.png" />
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Bhavya Solanki",
+        "jobTitle": "ECE + AI/ML Engineer",
+        "url": "%VITE_SITE_URL%",
+        "email": "mailto:bhavya4818@gmail.com",
+        "address": { "@type": "PostalAddress", "addressLocality": "Greater Noida", "addressRegion": "Uttar Pradesh", "addressCountry": "IN" },
+        "alumniOf": { "@type": "CollegeOrUniversity", "name": "Galgotias University" },
+        "sameAs": [
+          "https://github.com/BhavyaSolanki31",
+          "https://www.linkedin.com/in/bhavya-solanki-267011309/"
+        ]
+      }
+    </script>
+    <style>
+      /* Initial loading screen: critical CSS so it paints before the app loads. */
+      html { scrollbar-gutter: stable; }
+      html.is-loading, html.is-loading body { overflow: hidden; }
+      #loader {
+        position: fixed; inset: 0; z-index: 9999;
+        display: flex; align-items: center; justify-content: center;
+        height: 100vh; height: 100dvh;
+        background: var(--page, #fff); color: var(--ink, #101216);
+        transition: opacity 0.6s ease, visibility 0.6s ease;
+        animation: ld-failsafe 0.4s ease 7s forwards; /* never trap the page if scripts fail */
+      }
+      #loader.is-done { opacity: 0; visibility: hidden; pointer-events: none; }
+      .ld-inner { display: flex; flex-direction: column; align-items: center; gap: clamp(2.75rem, 14vh, 8.5rem); padding: 0 1.25rem; }
+      .ld-cubes { width: clamp(88px, 11vw, 124px); height: auto; overflow: visible; }
+      .ld-cubes path {
+        fill: none; stroke: currentColor; stroke-width: 2.4; stroke-linecap: round; stroke-linejoin: round;
+        stroke-dasharray: 1; stroke-dashoffset: 1; opacity: 0;
+        animation: ld-draw 0.85s cubic-bezier(0.65, 0, 0.35, 1) both;
+      }
+      .ld-c { transform-box: fill-box; transform-origin: center; animation: ld-float 1.8s ease-in-out infinite; }
+      .ld-c1 path { animation-delay: 0.1s; } .ld-c2 path { animation-delay: 0.35s; } .ld-c3 path { animation-delay: 0.6s; }
+      .ld-c1 { animation-delay: 1.3s; } .ld-c2 { animation-delay: 1.5s; } .ld-c3 { animation-delay: 1.7s; }
+      .ld-sig {
+        margin: 0; display: flex; align-items: center; gap: 0.6rem; white-space: nowrap; opacity: 0;
+        font-family: 'Yellowtail', 'Brush Script MT', cursive; font-size: clamp(2.1rem, 6.2vw, 3.6rem); line-height: 1.1;
+      }
+      .ld-sig.ready { animation: ld-rise 0.7s cubic-bezier(0.22, 1, 0.36, 1) 0.35s forwards; }
+      .ld-br { font-family: 'Montserrat Variable', system-ui, sans-serif; font-weight: 300; font-size: 0.72em; color: var(--sub, #868e96); }
+      @keyframes ld-draw { 0% { stroke-dashoffset: 1; opacity: 0; } 3% { opacity: 1; } 100% { stroke-dashoffset: 0; opacity: 1; } }
+      @keyframes ld-float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-2.5px); } }
+      @keyframes ld-rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+      @keyframes ld-failsafe { to { opacity: 0; visibility: hidden; pointer-events: none; } }
+      @media (prefers-reduced-motion: reduce) {
+        .ld-cubes path { animation: none; stroke-dashoffset: 0; opacity: 1; }
+        .ld-c { animation: none; }
+        .ld-sig.ready { animation-duration: 0.01s; animation-delay: 0s; }
+        #loader { transition-duration: 0.2s; }
+      }
+    </style>
+    <noscript><style>#loader { display: none !important; } html.is-loading, html.is-loading body { overflow: auto; }</style></noscript>
+  </head>
+  <body>
+    <div id="loader" role="status" aria-label="Loading">
+      <div class="ld-inner">
+        <svg class="ld-cubes" viewBox="0 0 100 100" aria-hidden="true" focusable="false">
+      <g class="ld-c ld-c1"><path pathLength="1" d="M34.41 18 L50.0 27.0 L50.0 45.0 L34.41 54 L18.82 45.0 L18.82 27.0 Z"/><path pathLength="1" d="M18.82 27.0 L34.41 36 L50.0 27.0 M34.41 36 L34.41 54"/></g>
+      <g class="ld-c ld-c2"><path pathLength="1" d="M65.59 18 L81.18 27.0 L81.18 45.0 L65.59 54 L50.0 45.0 L50.0 27.0 Z"/><path pathLength="1" d="M50.0 27.0 L65.59 36 L81.18 27.0 M65.59 36 L65.59 54"/></g>
+      <g class="ld-c ld-c3"><path pathLength="1" d="M50 45.0 L65.59 54.0 L65.59 72.0 L50 81.0 L34.41 72.0 L34.41 54.0 Z"/><path pathLength="1" d="M34.41 54.0 L50 63.0 L65.59 54.0 M50 63.0 L50 81.0"/></g>
+        </svg>
+        <p class="ld-sig" aria-hidden="true"><span class="ld-br">&lt;</span><span>Bhavya Solanki</span><span class="ld-br">/&gt;</span></p>
+      </div>
+    </div>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
