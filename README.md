@@ -1,111 +1,299 @@
-# Bhavya Solanki: Portfolio
+# 🤖 Bhavya Solanki — AI/ML Engineer Portfolio
 
-Personal portfolio for **Bhavya Solanki, ECE + AI/ML Engineer**.
-Built with React, Vite and Tailwind CSS v4. Light and dark themes, no runtime dependencies beyond React and Lucide icons, fonts self-hosted (no Google Fonts requests).
+<p align="center">
+  <img src="public/og-image.png" alt="Bhavya Solanki Portfolio Preview" width="100%">
+</p>
 
-## Run locally
+<h3 align="center">
+Building intelligent systems that connect AI, electronics, signals, and real-world engineering 🚀
+</h3>
 
-Requires Node.js 20 or newer.
+<p align="center">
+  <a href="YOUR_LIVE_PORTFOLIO_LINK">🌐 Live Portfolio</a> •
+  <a href="https://github.com/BhavyaSolanki31">GitHub</a> •
+  <a href="https://www.linkedin.com/in/bhavya-solanki-267011309/">LinkedIn</a>
+</p>
+
+---
+
+## 👋 About Me
+
+Hi, I'm **Bhavya Solanki**, a 3rd-year **B.Tech Electronics & Communication Engineering (AI & ML)** student passionate about building intelligent systems that combine:
+
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Signal Processing
+- Embedded Systems
+- Electronics Engineering
+
+I enjoy creating practical solutions by combining AI algorithms, software development, and hardware-oriented engineering.
+
+---
+
+# 🌟 Portfolio Overview
+
+This portfolio represents my engineering journey and showcases:
+
+- 🚀 AI/ML projects and implementations
+- 👁️ Computer vision applications
+- ⚡ Electronics and VLSI experience
+- 💼 Industry internship experience
+- 📜 Certifications and achievements
+- 🛠 Technical skills and tools
+
+---
+
+# ✨ Features
+
+- Modern responsive portfolio design
+- Light & dark theme support
+- Smooth animations and interactions
+- Interactive project showcase
+- Experience and certification sections
+- Resume download option
+- Mobile-friendly UI
+- Optimized performance using React + Vite
+
+---
+
+# 🛠 Tech Stack
+
+## Frontend
+
+- React.js
+- Vite
+- Tailwind CSS
+- JavaScript
+- Lucide Icons
+
+## Artificial Intelligence & Machine Learning
+
+- Python
+- TensorFlow
+- NumPy
+- Pandas
+- Machine Learning Algorithms
+- Deep Learning
+- Time-Series Forecasting
+- Anomaly Detection
+
+## Computer Vision & Image Processing
+
+- OpenCV
+- Image Processing
+- OCR
+- Computer Vision Pipelines
+- Image Validation
+
+## Electronics & Core Engineering
+
+- Digital Electronics
+- Analog Electronics
+- Digital Signal Processing
+- VLSI Fundamentals
+- Embedded Systems
+- IoT
+
+## Automation & Testing
+
+- Python Automation
+- Pytest
+- Robot Framework
+- Selenium
+- Playwright
+- API Testing
+
+## Tools & Platforms
+
+- Git
+- GitHub
+- VS Code
+- Arduino IDE
+- Cadence Virtuoso
+
+---
+
+# 💼 Experience
+
+## 🔴 R&D Intern — Barco Electronic Systems Pvt. Ltd.
+
+**Noida, India | July 2026 – August 2026**
+
+Worked on computer vision-based validation and automation workflows.
+
+### Key Contributions
+
+- Developed a Python/OpenCV image-validation pipeline with multiple quality metrics and OCR validation for automated PASS/FAIL classification.
+- Optimized camera-based image acquisition through sharpest-frame selection, display detection, cropping, and OCR preprocessing.
+- Enhanced testing workflows using Pytest, Robot Framework, Playwright, and API validation.
+
+---
+
+## 🟣 Digital Electronics & VLSI Intern — Codec Technologies India
+
+Worked on digital electronics and semiconductor-oriented design concepts.
+
+### Key Contributions
+
+- Applied digital electronics concepts for circuit design and analysis.
+- Explored CMOS/VLSI fundamentals and simulation workflows.
+- Worked on semiconductor-based design understanding and digital system implementation.
+
+---
+
+# 🚀 Featured Projects
+
+## ⚡ AI Powered Smart Energy Meter
+
+**Machine Learning | IoT | Time-Series Forecasting**
+
+An intelligent energy monitoring system using AI techniques.
+
+### Highlights
+
+- Developed LSTM-based electricity consumption forecasting model.
+- Implemented Isolation Forest-based anomaly detection.
+- Created real-time energy monitoring visualization.
+
+---
+
+## 🔐 DSP Based Secure Image Authentication System
+
+**MATLAB | Digital Signal Processing**
+
+A secure image processing system using DSP techniques.
+
+### Highlights
+
+- Implemented image embedding and recovery techniques.
+- Applied bit-plane slicing and signal processing concepts.
+- Evaluated image quality using PSNR analysis.
+
+---
+
+## 🎙 Real-Time Speech Emotion Detection
+
+**MATLAB | Machine Learning**
+
+A speech-based emotion recognition system.
+
+### Highlights
+
+- Extracted MFCC-based audio features.
+- Built emotion classification workflow.
+- Developed interactive visualization dashboard.
+
+---
+
+## 📄 ATS Resume Analyzer
+
+**AI | Web Application**
+
+An intelligent resume evaluation platform.
+
+### Highlights
+
+- Automated resume parsing and analysis.
+- Generated ATS compatibility scores.
+- Provided keyword-based improvement suggestions.
+
+---
+
+# 🎓 Education
+
+## Galgotias University
+
+**B.Tech Electronics & Communication Engineering (AI & ML)**
+
+**2023 – 2027**
+
+CGPA: 8.9+
+
+---
+
+# 🏆 Certifications
+
+- Machine Learning Onramp — MathWorks
+- Data Structures & Algorithms Using Java — Infosys Springboard
+- Introduction to Generative AI Studio — Google Cloud
+- AI Bootcamp — NIELIT
+- Analog ICs & Semiconductor Advancements — NIT Delhi
+- Machine Learning — Internshala
+
+---
+
+# 📂 Project Structure
+
+```
+src/
+│
+├── components/        # Reusable UI components
+├── sections/          # Portfolio sections
+├── data/              # Projects, skills and experience data
+├── hooks/             # Custom React hooks
+└── assets/            # Images, logos and icons
+
+public/
+├── certificates/      # Certificate files
+├── images/            # Public assets
+└── resume/            # Resume file
+```
+
+---
+
+# ⚙️ Run Locally
+
+### Requirements
+
+- Node.js 20+
+
+### Clone Repository
+
+```bash
+git clone https://github.com/BhavyaSolanki31/bhavya-solanki-portfolio.git
+```
+
+### Install Dependencies
 
 ```bash
 npm install
-npm run dev        # http://localhost:5173
-npm run build      # production build in dist/
-npm run preview    # serve the production build locally
 ```
 
-## Design
+### Start Development Server
 
-The look follows the reference portfolio you shared: white page, Montserrat, purple `#55198b` buttons that invert on hover, flat illustrations, round brand-coloured social icons, and card rows for experience, projects and certifications. A light/dark switch sits in the header (light by default, choice remembered). The illustrations are original SVGs, and all copy, data and the photo are yours.
-
-## Project structure
-
-```
-public/
-  Bhavya_Solanki_Resume.pdf   <- your resume (the Download Resume buttons point here)
-  favicon.svg
-  og-image.png                <- social preview (1200x630)
-src/
-  assets/profile.jpg          <- your portrait (replace this file to change the photo)
-  components/                 Navbar, ThemeToggle, Button, Chip, SocialLinks, SectionHeading,
-                              HeroVisual, Illustrations, ExperienceCard, ProjectCard, SkillGroup,
-                              EducationItem, CertificationCard, RepoCard, Reveal, Footer, Icons
-  sections/                   Hero, Skills, Experience, Projects, Education, Certifications,
-                              Exploring, OpenSource, Contact
-  data/                       All content lives here, not in the components
-    site.js                   name, links, hero copy, nav, intro bullets, tool pills
-    experience.js             Barco and Codec
-    projects.js               the five projects and metrics
-    skills.js                 grouped skills
-    education.js              education, certifications, "Currently exploring"
-    repos.js                  GitHub repository list
-  hooks/                      useReveal, useActiveSection
-  index.css                   Theme tokens (light and dark), animations, reduced-motion rules
-  App.jsx, main.jsx
+```bash
+npm run dev
 ```
 
-## Things to change
+### Production Build
 
-| What | Where |
-| --- | --- |
-| Profile photo | Replace `src/assets/profile.jpg` (portrait, roughly 3:4, ideally 800px wide or more) |
-| Resume | Replace `public/Bhavya_Solanki_Resume.pdf`, keeping the filename |
-| Text, links, projects, skills | Files in `src/data/` |
-| Colours (purple, backgrounds) | `:root` and `[data-theme='dark']` blocks at the top of `src/index.css` |
-| Public site URL (canonical, social preview) | `VITE_SITE_URL` in `.env`, with trailing slash |
+```bash
+npm run build
+```
 
-### Before you publish
+---
 
-1. **Set `VITE_SITE_URL`** in `.env` to the real address of your site. It feeds the canonical link, Open Graph and Twitter tags. The default in the file is a guess.
-2. **Check your resume PDF.** It is public once deployed, and yours includes your phone number. If you would rather not publish it, remove the number from the copy in `public/`.
-3. **Confirm your LinkedIn URL.** The site uses `linkedin.com/in/bhavya-solanki-267011309/`. Your resume and LinkedIn PDF show two other slugs. Update `src/data/site.js` if this one is not current.
+# 🌐 Deployment
 
-## Updating certificates, logos, screenshots and the loader
+This portfolio can be deployed using:
 
-| What | Where |
-| --- | --- |
-| Certificate PDFs (opened by every "View Certificate" button) | `public/certificates/`. Replace a file keeping its name, or change the path in `src/data/education.js` (certifications) and `src/data/experience.js` (Barco, Codec) |
-| Barco, Codec, Galgotias and DAV logos | `src/assets/logos/` |
-| Project card screenshots (16:10, about 1000x625) | `src/assets/projects/`, wired up in `src/data/projects.js` |
-| Technology logos (brand marks, muted until hover) | `src/data/techIcons.js`; which ones appear is set in `src/data/skills.js` (`techStrip` and `skillGroups`) |
-| Loading screen (cube animation and signature) | Markup and styles at the top of `index.html`; timing in `src/loader.js` (`MIN` is the minimum display time in ms) |
+- GitHub Pages
+- Vercel
+- Netlify
 
-**Cadence Virtuoso logo:** no logo for it exists in the free icon sets, so a circuit icon is shown. To use the official mark, add it to `src/assets/logos/` and tell the tile to use it, or ask for it to be wired in.
+---
 
-**Certificates are public once deployed.** Anyone with the site address can open these PDFs. Check what each one shows (roll numbers, photos) before publishing.
+# 📫 Connect With Me
 
-## Deploy
+GitHub:  
+https://github.com/BhavyaSolanki31
 
-The build uses relative asset paths (`base: './'`), so the same output works on every host below without extra config.
+LinkedIn:  
+https://www.linkedin.com/in/bhavya-solanki-267011309/
 
-### GitHub Pages (automatic, recommended)
+---
 
-1. Create a repository (for example `portfolio`) and push this project to the `main` branch.
-2. In the repository, open **Settings > Pages** and set **Source** to **GitHub Actions**.
-3. Push again, or run the workflow manually from the **Actions** tab. `.github/workflows/deploy.yml` builds and publishes the site.
-4. Your site appears at `https://<username>.github.io/<repository>/`. Put that URL in `VITE_SITE_URL`.
+⭐ If you like my work, consider starring this repository!
 
-For a root site at `https://<username>.github.io/`, name the repository `<username>.github.io`.
-
-### Vercel
-
-1. Push the project to GitHub.
-2. Go to vercel.com, choose **Add New > Project** and import the repository.
-3. Vercel detects Vite automatically (build `npm run build`, output `dist`). Click **Deploy**.
-4. Add `VITE_SITE_URL` under **Settings > Environment Variables** with your Vercel URL, then redeploy.
-
-Or from the terminal: `npx vercel --prod`.
-
-### Netlify
-
-Import the repository at app.netlify.com. `netlify.toml` already sets the build command and publish directory. Add `VITE_SITE_URL` in **Site configuration > Environment variables**.
-
-## Content sources
-
-Every fact on the site comes from your resume (primary), your LinkedIn profile PDF, and the READMEs of your public GitHub repositories. GitHub language and last-update data in `src/data/repos.js` was read from the GitHub API on 19 September 2026. Stars and forks are intentionally not displayed. If you add repositories or update metrics, edit the files in `src/data/`.
-
-## Accessibility and performance notes
-
-- Semantic landmarks, one `h1`, ordered headings, skip link, visible focus rings, keyboard-operable mobile menu (Escape closes it).
-- Animations are limited to the hero entrance, a subtle scroll reveal, and hover states. `prefers-reduced-motion: reduce` turns all of them off and shows content immediately.
-- Fonts (Montserrat and Yellowtail for the signature logo) are bundled through Fontsource, so there are no third-party requests at runtime.
+© 2026 Bhavya Solanki
