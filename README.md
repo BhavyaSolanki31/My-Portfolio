@@ -9,7 +9,7 @@ Building intelligent systems that connect AI, electronics, signals, and real-wor
 </h3>
 
 <p align="center">
-  <a href="YOUR_LIVE_PORTFOLIO_LINK">🌐 Live Portfolio</a> •
+  <a href="https://bhavyasolanki31.github.io/My-Portfolio/">Live Portfolio</a> •
   <a href="https://github.com/BhavyaSolanki31">GitHub</a> •
   <a href="https://www.linkedin.com/in/bhavya-solanki-267011309/">LinkedIn</a>
 </p>
