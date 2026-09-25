@@ -4,14 +4,21 @@
   <img src="public/og-image.png" alt="Bhavya Solanki Portfolio Preview" width="100%">
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BhavyaSolanki31/My-Portfolio/main/src/assets/profile.jpg" 
+       alt="Bhavya Solanki" 
+       width="180"
+       style="border-radius:50%;">
+</p>
+
 <h3 align="center">
 Building intelligent systems that connect AI, electronics, signals, and real-world engineering 🚀
 </h3>
 
 <p align="center">
-  <a href="https://bhavyasolanki31.github.io/My-Portfolio/">Live Portfolio</a> •
-  <a href="https://github.com/BhavyaSolanki31">GitHub</a> •
-  <a href="https://www.linkedin.com/in/bhavya-solanki-267011309/">LinkedIn</a>
+  <a href="https://bhavyasolanki31.github.io/My-Portfolio/">🌐 Live Portfolio</a> •
+  <a href="https://github.com/BhavyaSolanki31">💻 GitHub</a> •
+  <a href="https://www.linkedin.com/in/bhavya-solanki-267011309/">🔗 LinkedIn</a>
 </p>
 
 ---
