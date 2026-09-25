@@ -4,13 +4,6 @@
   <img src="public/og-image.png" alt="Bhavya Solanki Portfolio Preview" width="100%">
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BhavyaSolanki31/My-Portfolio/main/src/assets/profile.jpg" 
-       alt="Bhavya Solanki" 
-       width="180"
-       style="border-radius:50%;">
-</p>
-
 <h3 align="center">
 Building intelligent systems that connect AI, electronics, signals, and real-world engineering 🚀
 </h3>
