@@ -18,9 +18,9 @@ export const experience = [
     status: 'Completed',
     summary: 'Built computer-vision validation and test-automation tooling.',
     bullets: [
-      'Engineered a Python/OpenCV image-validation pipeline with 12 quality metrics and OCR validation, enabling automated image-quality assessment and PASS/FAIL classification.',
-      'Optimized camera-based image acquisition through sharpest-frame selection, display detection, cropping, and OCR preprocessing, improving validation reliability.',
-      'Streamlined test automation by consolidating Robot Framework API permission tests and enhancing Pytest execution for PTP/ITP/OSD workflows with repeated automated runs.',
+      'Worked on the automation and validation of Barco’s Video Wall Management System (VWMS), developing computer vision-based workflows for display quality analysis and system reliability testing.',
+      'Developed Python/OpenCV-based image processing pipelines for automated display image comparison, camera-based validation, OCR verification, and quality assessment to improve accuracy and reduce manual validation effort.',
+      'Enhanced software testing workflows by automating API validation and regression testing using Robot Framework and Pytest, improving test coverage and execution efficiency across PTP/ITP/OSD modules.',
     ],
     tech: [
       'Python',
