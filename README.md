@@ -1,4 +1,4 @@
-# 🤖 Bhavya Solanki — Portfolio
+# 🤖 Bhavya Solanki — AI/ML Engineer Portfolio
 
 <p align="center">
   <img src="public/og-image.png" alt="Bhavya Solanki Portfolio Preview" width="100%">
@@ -26,6 +26,7 @@ Hi, I'm **Bhavya Solanki**, a 4th-year **B.Tech Electronics & Communication Engi
 - Signal Processing
 - Embedded Systems
 - Electronics Engineering
+- Automation & Testing
 
 I enjoy creating practical solutions by combining AI algorithms, software development, and hardware-oriented engineering.
 
@@ -94,6 +95,7 @@ This portfolio represents my engineering journey and showcases:
 - VLSI Fundamentals
 - Embedded Systems
 - IoT
+- Edge Computing
 
 ## Automation & Testing
 
@@ -124,9 +126,9 @@ Worked on computer vision-based validation and automation workflows.
 
 ### Key Contributions
 
-- Automated Barco’s Video Wall Management System (VWMS) validation using computer vision workflows for display quality analysis and reliability testing.
-- Developed Python/OpenCV-based image processing pipelines for image comparison, OCR validation, and automated quality assessment.
-- Improved testing efficiency by automating API validation and regression testing using Robot Framework and Pytest across PTP/ITP/OSD modules.
+- Automated Barco’s Video Wall Management System (VWMS) validation using computer vision-based workflows for display quality assessment and reliability testing.
+- Developed Python/OpenCV pipelines for image comparison, OCR validation, and automated PASS/FAIL quality analysis.
+- Enhanced regression testing workflows by automating API validation using Robot Framework and Pytest across PTP/ITP/OSD modules.
 
 ---
 
@@ -148,7 +150,7 @@ Worked on digital electronics and semiconductor-oriented design concepts.
 
 **Machine Learning | IoT | Time-Series Forecasting**
 
-An intelligent energy monitoring system using AI techniques.
+AI-driven energy monitoring platform using LSTM-based forecasting and anomaly detection for household electricity consumption analysis.
 
 ### Highlights
 
@@ -190,7 +192,7 @@ A speech-based emotion recognition system.
 
 **AI | Web Application**
 
-An intelligent resume evaluation platform.
+Developed an AI-assisted resume analyzer that evaluates ATS compatibility through resume parsing, keyword matching, and scoring algorithms.
 
 ### Highlights
 
@@ -253,7 +255,7 @@ public/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/BhavyaSolanki31/bhavya-solanki-portfolio.git
+git clone https://github.com/BhavyaSolanki31/My-Portfolio.git
 ```
 
 ### Install Dependencies
