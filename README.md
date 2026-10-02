@@ -1,4 +1,4 @@
-# 🤖 Bhavya Solanki — AI/ML Engineer Portfolio
+# 🤖 Bhavya Solanki — Portfolio
 
 <p align="center">
   <img src="public/og-image.png" alt="Bhavya Solanki Portfolio Preview" width="100%">
@@ -124,9 +124,9 @@ Worked on computer vision-based validation and automation workflows.
 
 ### Key Contributions
 
-- Developed a Python/OpenCV image-validation pipeline with multiple quality metrics and OCR validation for automated PASS/FAIL classification.
-- Optimized camera-based image acquisition through sharpest-frame selection, display detection, cropping, and OCR preprocessing.
-- Enhanced testing workflows using Pytest, Robot Framework, Playwright, and API validation.
+- Automated Barco’s Video Wall Management System (VWMS) validation using computer vision workflows for display quality analysis and reliability testing.
+- Developed Python/OpenCV-based image processing pipelines for image comparison, OCR validation, and automated quality assessment.
+- Improved testing efficiency by automating API validation and regression testing using Robot Framework and Pytest across PTP/ITP/OSD modules.
 
 ---
 
@@ -220,6 +220,8 @@ CGPA: 8.9+
 - AI Bootcamp — NIELIT
 - Analog ICs & Semiconductor Advancements — NIT Delhi
 - Machine Learning — Internshala
+- Mastering Python — Infosys Springboard
+- Design Thinking - A Primer — NPTEL
 
 ---
 
@@ -271,16 +273,6 @@ npm run dev
 ```bash
 npm run build
 ```
-
----
-
-# 🌐 Deployment
-
-This portfolio can be deployed using:
-
-- GitHub Pages
-- Vercel
-- Netlify
 
 ---
 
