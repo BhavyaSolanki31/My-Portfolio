@@ -130,7 +130,7 @@ Worked on computer vision-based validation and automation workflows.
 - Developed Python/OpenCV pipelines for image comparison, OCR validation, and automated PASS/FAIL quality analysis.
 - Enhanced regression testing workflows by automating API validation using Robot Framework and Pytest across PTP/ITP/OSD modules.
 
-📜 **Internship Certificate:** [View Certificate](https://github.com/BhavyaSolanki31/My-Portfolio/blob/main/public/certificates/barco-internship-certificate.pdf)
+📜 **Internship Certificate:** [View Certificate](https://raw.githubusercontent.com/BhavyaSolanki31/My-Portfolio/main/public/certificates/barco-internship-certificate.pdf)
 
 ---
 
