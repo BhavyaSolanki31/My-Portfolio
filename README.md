@@ -208,7 +208,7 @@ An intelligent resume evaluation platform.
 
 **2023 – 2027**
 
-CGPA: 8.9+
+CGPA: 8.91
 
 ---
 
