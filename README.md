@@ -23,10 +23,10 @@ Hi, I'm **Bhavya Solanki**, a 4th-year **B.Tech Electronics & Communication Engi
 - Artificial Intelligence
 - Machine Learning
 - Computer Vision
-- Signal Processing
-- Embedded Systems
+- Embedded AI Systems
 - Electronics Engineering
 - Automation & Testing
+- Signal Processing
 
 I enjoy creating practical solutions by combining AI algorithms, software development, and hardware-oriented engineering.
 
@@ -94,7 +94,7 @@ This portfolio represents my engineering journey and showcases:
 - Digital Signal Processing
 - VLSI Fundamentals
 - Embedded Systems
-- IoT
+- Hardware-Software Integration
 - Edge Computing
 
 ## Automation & Testing
@@ -130,9 +130,13 @@ Worked on computer vision-based validation and automation workflows.
 - Developed Python/OpenCV pipelines for image comparison, OCR validation, and automated PASS/FAIL quality analysis.
 - Enhanced regression testing workflows by automating API validation using Robot Framework and Pytest across PTP/ITP/OSD modules.
 
+📜 **Internship Certificate:** [View Certificate](./public/certificates/Barco-Internship-Certificate.pdf) 
+
 ---
 
 ## 🟣 Digital Electronics & VLSI Intern — Codec Technologies India
+
+**Jun 2025 – July 2025**
 
 Worked on digital electronics and semiconductor-oriented design concepts.
 
@@ -148,57 +152,77 @@ Worked on digital electronics and semiconductor-oriented design concepts.
 
 ## ⚡ AI Powered Smart Energy Meter
 
-**Machine Learning | IoT | Time-Series Forecasting**
+**Machine Learning | IoT | Time-Series Forecasting | Anomaly Detection**
 
-AI-driven energy monitoring platform using LSTM-based forecasting and anomaly detection for household electricity consumption analysis.
+An intelligent energy monitoring and prediction system that leverages machine learning to analyze household power consumption patterns, forecast future energy usage, and detect abnormal consumption behavior.
 
 ### Highlights
 
-- Developed LSTM-based electricity consumption forecasting model.
-- Implemented Isolation Forest-based anomaly detection.
-- Created real-time energy monitoring visualization.
+- Developed an LSTM-based time-series forecasting model to predict future electricity consumption trends.
+- Implemented Isolation Forest-based anomaly detection to identify unusual energy usage patterns.
+- Built a real-time energy monitoring dashboard for visualization and consumption analysis.
+- Integrated AI-driven insights to support efficient energy management and decision-making.
 
 ---
 
 ## 🔐 DSP Based Secure Image Authentication System
 
-**MATLAB | Digital Signal Processing**
+**MATLAB | Digital Signal Processing | Image Processing**
 
-A secure image processing system using DSP techniques.
+A secure image authentication framework developed using digital signal processing techniques for protecting image integrity through data embedding and recovery methods.
 
 ### Highlights
 
-- Implemented image embedding and recovery techniques.
-- Applied bit-plane slicing and signal processing concepts.
-- Evaluated image quality using PSNR analysis.
+- Implemented image embedding and extraction techniques for secure information transmission.
+- Applied bit-plane slicing and signal processing methods for image analysis and authentication.
+- Evaluated image quality and reconstruction performance using PSNR analysis.
+- Designed a MATLAB-based workflow for secure image processing and validation.
 
 ---
 
 ## 🎙 Real-Time Speech Emotion Detection
 
-**MATLAB | Machine Learning**
+**MATLAB | Machine Learning | Audio Signal Processing**
 
-A speech-based emotion recognition system.
+A machine learning-based speech emotion recognition system that analyzes audio signals and classifies human emotions using extracted speech features.
 
 ### Highlights
 
-- Extracted MFCC-based audio features.
-- Built emotion classification workflow.
-- Developed interactive visualization dashboard.
+- Extracted MFCC-based audio features for effective speech representation and analysis.
+- Developed an emotion classification pipeline using machine learning techniques.
+- Processed speech signals for feature extraction and emotion prediction.
+- Created an interactive visualization dashboard for displaying emotion recognition results.
+
+---
+
+## 🌱 Plant Disease Detection System
+
+**AI/ML | Python | CNN | OpenCV | TensorFlow | Streamlit**
+
+An AI-powered plant disease identification system designed to automate crop health monitoring by detecting diseases from leaf images using deep learning and computer vision.
+
+### Highlights
+
+- Developed a CNN-based image classification model for accurate plant disease identification.
+- Applied image preprocessing and augmentation techniques to improve model performance.
+- Built an OpenCV-based computer vision pipeline for automated leaf image analysis.
+- Integrated a Streamlit interface for real-time disease prediction and user interaction.
+- Reduced manual inspection effort by approximately 60% through AI-based automation.
 
 ---
 
 ## 📄 ATS Resume Analyzer
 
-**AI | Web Application**
+**Artificial Intelligence | NLP | Web Application**
 
-Developed an AI-assisted resume analyzer that evaluates ATS compatibility through resume parsing, keyword matching, and scoring algorithms.
+An AI-powered resume evaluation platform that analyzes resumes, measures ATS compatibility, and provides improvement suggestions based on job requirements.
 
 ### Highlights
 
-- Automated resume parsing and analysis.
-- Generated ATS compatibility scores.
-- Provided keyword-based improvement suggestions.
+- Developed an automated resume parsing system to extract skills, experience, and relevant information.
+- Implemented keyword matching and scoring algorithms to generate ATS compatibility scores.
+- Built an interactive interface for resume upload and analysis.
+- Provided AI-driven recommendations to improve resume alignment with job descriptions.
 
 ---
 
@@ -210,7 +234,7 @@ Developed an AI-assisted resume analyzer that evaluates ATS compatibility throug
 
 **2023 – 2027**
 
-CGPA: 8.91
+CGPA: 8.91/10
 
 ---
 
